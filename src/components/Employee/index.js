@@ -3,10 +3,16 @@ import './styles.css';
 
 function Employee(props) {
   return (
-    <div className="employee">
-      <img alt={ props.last } src={ props.image }></img>
-      <h2>{ props.first } { props.last }</h2>
-    </div>
+    <tr>
+      <td>
+        <img className={"headshot"} alt={ props.last } src={ props.image }></img>
+      </td>
+      <td>{ props.first }</td>
+      <td>{ props.last }</td>
+      <td>{ props.email }</td>
+      <td>{ props.phone }</td>
+      <td>{ props.country }</td>
+    </tr>
   );
 };
 

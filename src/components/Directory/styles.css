@@ -1,0 +1,19 @@
+#table {
+  width: 100%;
+}
+
+th {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+td {
+  text-align: center;
+}
+
+img {
+  border: 2px solid black;
+  border-radius: 100px;
+}
+
