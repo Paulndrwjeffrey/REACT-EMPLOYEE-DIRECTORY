@@ -6,8 +6,7 @@ function App() {
   return (
     <div>
     <Header />
-    <Directory />
-
+    <Directory /> 
     </div>
   )
 }

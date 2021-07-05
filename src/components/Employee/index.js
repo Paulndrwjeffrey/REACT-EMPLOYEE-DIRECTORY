@@ -9,7 +9,9 @@ function Employee(props) {
       </td>
       <td>{ props.first }</td>
       <td>{ props.last }</td>
-      <td>{ props.email }</td>
+      <td>
+        <a href={`mailto:${ props.email }`}>{ props.email }</a>
+        </td>
       <td>{ props.phone }</td>
       <td>{ props.country }</td>
     </tr>

@@ -1,6 +1,13 @@
+* {
+  font-family: 'Orelega One', cursive;
+}
+
 #header {
   border-bottom: 2px solid black;
   margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #title {
@@ -9,5 +16,5 @@
 
 #title:hover {
   transform: skew(5deg);
-  color: lime;
+  color: limegreen;
 }

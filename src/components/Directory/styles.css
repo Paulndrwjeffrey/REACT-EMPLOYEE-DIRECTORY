@@ -4,7 +4,7 @@
 
 th {
   text-align: center;
-  border: 1px solid black;
+  border: 1.5px solid black;
   border-radius: 25px;
 }
 
@@ -17,3 +17,17 @@ img {
   border-radius: 100px;
 }
 
+.sorter {
+  cursor: pointer;
+  color: limegreen;
+  transform: skew(5deg);
+}
+
+.sorter:hover {
+  color: black;
+  transform: skew(3deg);
+}
+
+tr {
+  border: 1px solid black;
+}
