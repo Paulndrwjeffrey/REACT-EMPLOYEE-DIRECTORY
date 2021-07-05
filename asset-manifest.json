@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Paulndrwjeffrey/static/css/main.efe3d7d8.chunk.css",
-    "main.js": "/Paulndrwjeffrey/static/js/main.1dd0a51e.chunk.js",
-    "main.js.map": "/Paulndrwjeffrey/static/js/main.1dd0a51e.chunk.js.map",
-    "runtime-main.js": "/Paulndrwjeffrey/static/js/runtime-main.ad5c0ab4.js",
-    "runtime-main.js.map": "/Paulndrwjeffrey/static/js/runtime-main.ad5c0ab4.js.map",
-    "static/js/2.e7dfa12b.chunk.js": "/Paulndrwjeffrey/static/js/2.e7dfa12b.chunk.js",
-    "static/js/2.e7dfa12b.chunk.js.map": "/Paulndrwjeffrey/static/js/2.e7dfa12b.chunk.js.map",
-    "index.html": "/Paulndrwjeffrey/index.html",
-    "static/css/main.efe3d7d8.chunk.css.map": "/Paulndrwjeffrey/static/css/main.efe3d7d8.chunk.css.map",
-    "static/js/2.e7dfa12b.chunk.js.LICENSE.txt": "/Paulndrwjeffrey/static/js/2.e7dfa12b.chunk.js.LICENSE.txt"
+    "main.css": "/REACT-EMPLOYEE-DIRECTORY/static/css/main.efe3d7d8.chunk.css",
+    "main.js": "/REACT-EMPLOYEE-DIRECTORY/static/js/main.1dd0a51e.chunk.js",
+    "main.js.map": "/REACT-EMPLOYEE-DIRECTORY/static/js/main.1dd0a51e.chunk.js.map",
+    "runtime-main.js": "/REACT-EMPLOYEE-DIRECTORY/static/js/runtime-main.711db91b.js",
+    "runtime-main.js.map": "/REACT-EMPLOYEE-DIRECTORY/static/js/runtime-main.711db91b.js.map",
+    "static/js/2.e7dfa12b.chunk.js": "/REACT-EMPLOYEE-DIRECTORY/static/js/2.e7dfa12b.chunk.js",
+    "static/js/2.e7dfa12b.chunk.js.map": "/REACT-EMPLOYEE-DIRECTORY/static/js/2.e7dfa12b.chunk.js.map",
+    "index.html": "/REACT-EMPLOYEE-DIRECTORY/index.html",
+    "static/css/main.efe3d7d8.chunk.css.map": "/REACT-EMPLOYEE-DIRECTORY/static/css/main.efe3d7d8.chunk.css.map",
+    "static/js/2.e7dfa12b.chunk.js.LICENSE.txt": "/REACT-EMPLOYEE-DIRECTORY/static/js/2.e7dfa12b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad5c0ab4.js",
+    "static/js/runtime-main.711db91b.js",
     "static/js/2.e7dfa12b.chunk.js",
     "static/css/main.efe3d7d8.chunk.css",
     "static/js/main.1dd0a51e.chunk.js"
